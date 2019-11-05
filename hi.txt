@@ -1,0 +1,9 @@
+public String queryList(){
+	chenfanshishabi;
+	chendehenshabi;
+	gaoyiminggentayiyang;
+	mianqiangmingbaizheshizenmehuishile;
+	zhenleia;
+	wotainanle;
+	陈凡大傻子
+}
